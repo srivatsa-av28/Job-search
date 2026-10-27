@@ -1,6 +1,6 @@
 # Job Watch
 
-Checks the careers sites of 112 companies every morning: the 53 from the IITD sheet plus 59 more that pay 30+ LPA at 5+ YOE. It keeps Cloud / DevOps / SRE / Cloud-Security roles in Bengaluru, India (incl. remote), Singapore, the UK, Ireland, the Netherlands and Canada, then writes a report that highlights roles that are new since the last run.
+Checks the careers sites of 112 companies every morning: the 53 from the IITD sheet plus 59 more at 5+ YOE. It keeps Cloud / DevOps / SRE / Cloud-Security roles in Bengaluru, India (incl. remote), Singapore, the UK, Ireland, the Netherlands and Canada, then writes a report that highlights roles that are new since the last run.
 
 ## Install (once)
 
@@ -37,7 +37,7 @@ These companies are pulled automatically from their own job systems: HRT, Tower,
 
 The rest have no public job feed, so they're listed in the report with a link to check by hand: Google, LinkedIn, Flipkart, Amex, Jefferies, Accenture, D. E. Shaw, Samsung, the small Indian quant firms and others.
 
-Added on 11 Oct: 59 more companies known to pay 30+ LPA for engineers with 5+ years' experience (Okta, Rubrik, Databricks, Point72, Deutsche Bank, CrowdStrike, ServiceNow, NVIDIA and more). 41 of them are pulled automatically; the rest are links.
+Added on 11 Oct: 59 more companies hiring with 5+ years' experience (Okta, Rubrik, Databricks, Point72, Deutsche Bank, CrowdStrike, ServiceNow, NVIDIA and more). 41 of them are pulled automatically; the rest are links.
 
 The script now checks 112 companies, 71 of them automatically.
 
